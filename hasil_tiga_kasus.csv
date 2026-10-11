@@ -1,0 +1,7 @@
+﻿kasus,asal,tujuan,algoritma,jarak_harapan,jarak_hasil,kode_target,target_tampil_batas_1,status
+Penyisipan,proyktor,proyektor,Levenshtein,1,1,BRG001,True,LULUS
+Penyisipan,proyktor,proyektor,OSA,1,1,BRG001,True,LULUS
+Penggantian,mause,mouse,Levenshtein,1,1,BRG003,True,LULUS
+Penggantian,mause,mouse,OSA,1,1,BRG003,True,LULUS
+Transposisi,keybaord,keyboard,Levenshtein,2,2,BRG002,False,LULUS
+Transposisi,keybaord,keyboard,OSA,1,1,BRG002,True,LULUS
